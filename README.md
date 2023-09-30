@@ -100,6 +100,7 @@ pred
 ### pred
 ![image](https://github.com/praveenst13/Ex.No.8-ARIMA-model-in-python/assets/118787793/1f7859a4-71bc-4b4a-b655-4450b43550e5)
 ### plt.plot(pred),plt.plot(test)
+![image](https://github.com/praveenst13/Ex.No.8-ARIMA-model-in-python/assets/118787793/73bd08e3-7514-4f78-825e-92aa9c21564f)
 
 ### Calculate mean squared error
 ![image](https://github.com/praveenst13/Ex.No.8-ARIMA-model-in-python/assets/118787793/447476f0-19f7-4ebf-bfcc-c9df9081fe1b)
